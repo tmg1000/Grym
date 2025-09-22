@@ -1,7 +1,13 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <bodie>
-    <p> hello </p>
-        </bodie>
-    </head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My Webpage</h1>
+    <p>This is a simple HTML page. HTML is used to structure content on the web.</p>
+    <a href="https://www.example.com" target="_blank">Visit Example</a>
+</body>
+</html>
