@@ -5,7 +5,7 @@
     <p style ="font-family: Arial, sans-serif;">
     </p>
     <h1>godmorgon elever </h1>
-    <img src="1628859695879.jpg" alt="The very nice mangnus">
+    <img src="image-removebg-preview.png" alt="Drink Grym">
     </bodie>
     
 </head>
