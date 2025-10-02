@@ -1,21 +1,6 @@
 h1 {
-    color: blue; 
-}
-h1 {
+    color: blue;
     font-family: Arial, sans-serif;
-}
-h1 {
     text-align: center;
-}
-h1 {
     font-size: 150px;
-}
-image {
-    width: 800px;
-    height: auto;
-}
-image {
-    display: block;
-    margin-left: 10px;
-    margin-right: 10px;
 }
